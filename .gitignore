@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ekskludere test-XML-filer
+*_repository_test.xml
+
